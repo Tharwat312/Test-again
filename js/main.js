@@ -19,6 +19,10 @@ var quotes = [
         quote: "“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
         author: "― Bernard M. Baruch"
     },
+    {// 5
+        quote: "“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
+        author: "― Bernard M. Baruch"
+    },
 ];
 
 var previousIndex;
